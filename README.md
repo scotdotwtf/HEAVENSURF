@@ -32,7 +32,7 @@
 ### Guide
 #### Video Guide: WIP
 #### Installing reshade *correctly*
-- ##### Step 1. Go to https://reshade.me and click download to get the latest version of Reshade. After that, download the `HEAVENSURF.zip` file from the [latest release](github.com/scotdotwtf/Final16/releases/latest)
+- ##### Step 1. Go to https://reshade.me and click download to get the latest version of Reshade. After that, download the `HEAVENSURF.zip` file from the [latest release](https://github.com/scotdotwtf/HEAVENSURF/releases/latest)
 - ##### Step 2. Unzip the HEAVENSURF.zip file in a safe place (where you want delete it) and run the Reshade setup.
 - ##### Step 3. When the reshade setup starts you should be able to see a list of programs, search for "Audiosurf2" and then when you find it, click it and click next. On the rendering api selection screen, select "DirectX 10/11/12" and click next. 
 - ##### Step 4. On the screen that says "Select preset to install" click "Browse" and navigate to the HEAVENSURF folder you unziped and select `Heavenly.ini`. On the next screen some effect packages should be selected (SweetFX, Fubax, qUINT, AstrayFX, CShade), just click next. Finally you can click finish and you're basically done. 
