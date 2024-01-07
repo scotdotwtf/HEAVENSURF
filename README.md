@@ -67,6 +67,15 @@ PreprocessorDefinitions=RESHADE_DEPTH_LINEARIZATION_FAR_PLANE=1000.0,RESHADE_DEP
 
 <br/>
 
+### Contribute
+#### Want to contribute? its easy!
+- #### You can contribute by making more UIMask for different resolutions
+- #### or
+- #### You can also contribute by editing the .ini file and fixing any bugs
+#### Just submit a pull request and I'll check it out
+
+<br/>
+
 ### Extra modding resources
 #### I strongly reccomend you install the Audiosurf 2 community patch if you haven't already. It is an extremely amazing patch that fixes almost every issue.
 - ##### https://audiosurf2.info/download
