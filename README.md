@@ -61,7 +61,7 @@ To add RTGI to your game [first buy RTGI from this patreon link](https://www.pat
 
 
 #### Depth buffer
-<b>I stronly reccomend you watch the video guide to figure this out.<b/>
+**I stronly reccomend you watch the video guide to figure this out.**
 
 If you don't know what depth buffer is, basically its the 3d depth and things the game renders that shaders can use to calculate distance and other fun things. Audiosurf is weird with its depth buffer, so *SOMETMES* you may have to manually set it... this can happen every time you play a song, and sometimes it's set right. Skins also change that. Depth buffer is only really required for 3D shaders tho like RTGI and Amient Occlusion.
 
@@ -75,7 +75,7 @@ If you want to learn more about reshade, read here: https://reshade.me/docs or c
 ### Contribute
 #### Want to contribute? its easy!
 * You can contribute by making more UIMask for different resolutions
-* <b>or<b/>
+* **or**
 * You can also contribute by editing the .ini file and fixing any bugs
 Just submit a pull request and I'll check it out
 
